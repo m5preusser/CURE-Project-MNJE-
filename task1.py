@@ -1,4 +1,4 @@
-# Main.py 
+# task1.py 
 # ENDG 319
 # CURE Project
 # September 20, 2024
@@ -7,9 +7,3 @@
 #   JP Hoffman ()
 #   Noah Crawford ()
 #   Evan Myers ()
-
-def main():
-    main()
-
-if __name__ == "__main__":
-    main()
