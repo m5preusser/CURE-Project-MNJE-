@@ -8,8 +8,9 @@
 #   Noah Crawford ()
 #   Evan Myers ()
 
-def main():
-    pass
+from deliverable1 import task1, task2, task3, task4
 
+def main():
+    task4()
 if __name__ == "__main__":
     main()
